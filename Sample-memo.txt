@@ -1,1 +1,2 @@
 ﻿Hello Git
+This is a sample message
